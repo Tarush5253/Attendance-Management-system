@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Tarush5253/AMS-backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Tarush5253/AMS-frontend.git
